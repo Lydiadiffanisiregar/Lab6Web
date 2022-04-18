@@ -195,4 +195,4 @@ Untuk membuat body konten, saya menggunakan cards.
 ![cards2](asset/foto/cards2.PNG)
 
 ### 8. Footer 
-![end](asset/foto/End.png)
+![end](asset/foto/end.PNG)
